@@ -6,4 +6,3 @@ ends.
 
 The `test` check fails whenever a file named `FAIL` is present, so a pull
 request can be made to fail on purpose.
-Measurement run 2: reeve blocks the queue's commit.
